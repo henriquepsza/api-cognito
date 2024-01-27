@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-cognito", "api-cognito.csproj", "{43B64C9D-01FA-4385-875C-2B37768C4549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B64C9D-01FA-4385-875C-2B37768C4549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B64C9D-01FA-4385-875C-2B37768C4549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B64C9D-01FA-4385-875C-2B37768C4549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B64C9D-01FA-4385-875C-2B37768C4549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
